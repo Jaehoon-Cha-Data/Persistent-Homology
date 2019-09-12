@@ -4,7 +4,7 @@
  Reference: https://github.com/scikit-tda/ripser.py
 <p float="left">
 <img src="https://user-images.githubusercontent.com/55184529/64756250-db0ab700-d560-11e9-9260-9f3fe06234dd.png"  width="200" height="200">
-<img src="https://user-images.githubusercontent.com/55184529/64756199-a72f9180-d560-11e9-854f-a3cb2e96252b.png"  width="350" height="250">
+<img src="https://user-images.githubusercontent.com/55184529/64756199-a72f9180-d560-11e9-854f-a3cb2e96252b.png"  width="300" height="220">
 </p>
 
 ![data1_balls](https://user-images.githubusercontent.com/55184529/64756196-a72f9180-d560-11e9-8e95-c53559a02c63.png)
