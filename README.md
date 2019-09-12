@@ -20,7 +20,7 @@ Data 2 and its persistence diagram
 Change radius
 ![data2_balls](https://user-images.githubusercontent.com/55184529/64756200-a7c82800-d560-11e9-971b-ab5009d6cdde.png)
 
-Data 2 and its persistence diagram
+Data 3 and its persistence diagram
 <p float="left">
 <img src="https://user-images.githubusercontent.com/55184529/64756249-da722080-d560-11e9-967e-ef9bbb335da3.png"  width="300" height="300">
 <img src="https://user-images.githubusercontent.com/55184529/64756195-a696fb00-d560-11e9-833b-abd2fdc4e023.png"  width="400" height="300">
