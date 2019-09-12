@@ -2,6 +2,7 @@
  Find data structure
  
  Reference: https://github.com/scikit-tda/ripser.py
+ 
 Data 1 and its persistence diagram
 <p float="left">
 <img src="https://user-images.githubusercontent.com/55184529/64756250-db0ab700-d560-11e9-9260-9f3fe06234dd.png"  width="300" height="300">
