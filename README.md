@@ -3,8 +3,8 @@
  
  Reference: https://github.com/scikit-tda/ripser.py
  
-![data1](https://user-images.githubusercontent.com/55184529/64756250-db0ab700-d560-11e9-9260-9f3fe06234dd.png)
-![data1_bd-diagram](https://user-images.githubusercontent.com/55184529/64756199-a72f9180-d560-11e9-854f-a3cb2e96252b.png)
+<img src="https://user-images.githubusercontent.com/55184529/64756250-db0ab700-d560-11e9-9260-9f3fe06234dd.png"  width="200" height="200">
+<img src="https://user-images.githubusercontent.com/55184529/64756199-a72f9180-d560-11e9-854f-a3cb2e96252b.png"  width="200" height="200">
 ![data1_balls](https://user-images.githubusercontent.com/55184529/64756196-a72f9180-d560-11e9-8e95-c53559a02c63.png)
  
 ![data2](https://user-images.githubusercontent.com/55184529/64756248-da722080-d560-11e9-8bcd-c0ea2d8fa27e.png)
