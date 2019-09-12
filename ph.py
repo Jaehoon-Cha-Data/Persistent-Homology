@@ -135,14 +135,6 @@ data3 = np.concatenate([
     tadasets.dsphere(n=100, d=1, r=1, noise=0.2),
 ])
  
-plt.figure()    
-plt.scatter(data1[:, 0], data1[:, 1])
-plt.figure()
-plt.scatter(data2[:,0], data2[:,1])
-plt.figure()
-plt.scatter(data3[:,0], data3[:,1])    
-    
-
 
 def plot_Graph(X):
     eps = 0.1
@@ -166,7 +158,7 @@ def plot_Graph(X):
             resultsparse['dgms'][1][mask_holes, 1], c = 'r', s = 100, alpha=0.3)
 
 
-plot_Graph(data1)
+
 
 
 
