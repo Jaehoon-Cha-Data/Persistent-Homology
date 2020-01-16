@@ -3,6 +3,8 @@
 Created on Wed Sep 11 23:56:16 2019
 
 @author: jaehooncha
+
+@email: chajaehoon79@gmail.com
 """
 from ripser import ripser
 from persim import plot_diagrams
